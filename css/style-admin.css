@@ -1,0 +1,281 @@
+.plugin-detail-wrap {
+	line-height: normal;
+}
+
+.box-plugin-detail {
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	float: left;
+	margin: 15px;
+	min-height: 200px !important;
+	width: 45%;
+	font-size: 15px;
+	background-color: #fff;
+}
+
+.box-plugin-detail:last-child {
+	margin-right: 0px;
+}
+
+.box-plugin-detail>h1 {
+	color: #ffffff;
+	font-size: 24px;
+	margin: 0;
+	padding: 15px 5px;
+}
+
+.h1-color-yellow {
+	background-color: #f1c11f;
+	border-bottom: 4px solid #F1AB1F;
+}
+
+.h1-color-gray {
+	background-color: #CCC;
+	border-bottom: 4px solid #888888;
+}
+
+.h1-color-green {
+	background-color: #019000;
+	border-bottom: 4px solid #017000;
+}
+
+.h1-color-blue {
+	background-color: #04b2f7;
+	border-bottom: 4px solid #1da4d2;
+}
+
+.box-plugin-detail-content h2 {
+	font-size: 16px;
+	padding: 0 20px;
+}
+
+.whizz-feature {
+	margin-left: 25px;
+}
+
+.h1-color-yellow {
+	background-image: url('../images/colorize-logo.png');
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	padding-left: 70px !important;
+}
+
+.h1-color-blue {
+	background-image: url('../images/menu-logo.png');
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	padding-left: 70px !important;
+}
+
+.h1-color-gray {
+	background-image: url('../images/plugin-images.png');
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	padding-left: 70px !important;
+}
+
+.h1-color-green {
+	background-image: url('../images/user-images.png');
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	padding-left: 70px !important;
+}
+
+h1 img {
+	margin: 0 10px;
+}
+
+.h1-color-red>img {
+	height: 31px;
+	left: -2px;
+	position: relative;
+	top: 5px;
+	width: 30px;
+}
+
+.h1-color-red {
+	background: none repeat scroll 0 0 #c0583f;
+	border-bottom: 4px solid #ff1900;
+}
+
+.tb-new-enw #search_users {
+	width: 100% !important;
+	padding: 0px !important;
+}
+
+#wpbody-content .whizz-feature {
+	background-image: url("../images/logo_whizz.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 40px auto;
+	margin: 0 0 5px 17px;
+	padding: 26px 60px 25px;
+}
+
+.box-plugin-detail-new {
+	margin: 15px 0;
+	font-size: 15px;
+	line-height: 26px;
+}
+
+.page-heading {
+	background-color: #26b8ea;
+	border-bottom: 4px solid #1da4d2;
+	border-image: none;
+	color: #fff;
+	margin-top: 35px;
+}
+
+.plugin-detail-wrap {
+	background-color: #fff;
+	border: 1px solid #dadee2;
+	line-height: normal;
+	padding: 28px 100px;
+}
+
+.box-plugin-detail-new h1 {
+	font-family: "Verdana" !important;
+	font-size: 22px;
+	margin: 0 !important;
+}
+
+.img-setting {
+	background-position: 0 4px;
+	background-repeat: no-repeat;
+	background-size: 65px 65px;
+	margin-bottom: 35px;
+	padding-bottom: 30px;
+	padding-left: 87px;
+}
+
+.colorize-img {
+	background-image: url("../images/colorize-logo-img.png");
+}
+
+.menu-img {
+	background-image: url("../images/menu-logo2-img.png");
+}
+
+.modal-img {
+	background-image: url("../images/modalicon.fw.png");
+}
+
+.plugin-img {
+	background-image: url("../images/plugin-images-img.png");
+}
+
+.users-img {
+	background-image: url("../images/user-images-img.png");
+}
+
+.box-plugin-detail-new .font-color-gray {
+	color: #727b88;
+	font-family: "Verdana" !important;
+}
+
+.toplevel_page_whizz-plugin #wpcontent {
+	padding-right: 20px;
+}
+
+.choice_radio label {
+	vertical-align: inherit;
+}
+
+#reset_all {
+	cursor: pointer;
+	border: none;
+	margin-right: 10px;
+	width: auto;
+	text-align: center;
+	float: left;
+	font-size: 13px;
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+}
+
+#reset_menus_color {
+	cursor: pointer;
+	border: none;
+	width: auto;
+	text-align: center;
+	float: left;
+	font-size: 13px;
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+}
+
+#example_dashboard_widget .inside h1 {
+	font-size: 18px;
+}
+
+body.rtl #wpbody-content .whizz-feature { background-position:right center; padding:25px 60px 25px; margin-right:18px; }
+body.rtl .img-setting { background-position:right center; padding-left:0px; padding-right:87px; }
+
+@media screen and (max-width:700px) {
+	#wpbody-content {
+		float: none;
+	}
+	#wpcontent #wpbody-content .updated {
+		margin: 0px;
+	}
+	#wpbody-content .whizz-feature {
+		padding: 25px 40px;
+	}
+	#wpbody-content .whizz-feature {
+		margin: 0;
+	}
+	.box-plugin-detail {
+		float: none;
+		margin-bottom: 10px !important;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0;
+		width: 100%;
+	}
+	.box-plugin-detail:last-child {
+		margin: 0;
+	}
+	#wpcontent #wpbody-content .updated {
+		margin: 0;
+	}
+	#wpcontent #wpbody-content .updated {
+		margin: 5px 0 15px 2px;
+	}
+	div.updated {
+		margin: 0 auto;
+		width: 90%;
+	}
+	.auto-fold #wpcontent {
+		padding: 10px;
+	}
+	#wpcontent #wpbody-content .update-nag {
+		margin-bottom: 15px !important;
+		margin-left: 0;
+		margin-right: 0;
+		margin-top: 0;
+		width: 88%;
+	}
+	.wpbody-content-box {
+		margin-left: 0px !important;
+		width: 100% !important;
+	}
+	#wpbody-content {
+		width: 100%;
+	}
+	.wrap {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	#dashboard-widgets-wrap {
+		margin: 0;
+	}
+	.plugin-detail-wrap {
+		padding: 10px;
+	}
+}

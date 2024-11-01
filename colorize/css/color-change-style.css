@@ -1,0 +1,248 @@
+main-plugin-title-menu {
+	background-color: #04b2f7;
+	background-image: url("../images/menu-logo.png");
+	background-position: 15px center;
+	background-repeat: no-repeat;
+	background-size: 45px auto;
+	border-bottom: 4px solid #1da4d2;
+	color: #fff;
+	margin: 0;
+	padding: 26px 0 26px 65px;
+}
+.wp-picker-container, .wp-picker-container:active {
+display: block !important;
+margin-top: 10px !important;
+}
+.wpbody-content-box .whizz-left-align #bgcolor_browserw {
+margin-top: 10px;
+}
+#reset_all {
+	cursor:pointer;
+	border: none;
+	margin-right:10px;
+	width:auto;
+	text-align:center;
+	float:left;
+	font-size:13px;
+	background-color: #000;
+	color: #fff;
+	padding:10px;
+}
+body.rtl #reset_all {
+margin-right:0px;
+margin-left:10px;
+}
+#reset_menus_color {
+	cursor:pointer;
+	border: none;
+	width:auto;
+	text-align:center;
+	float:left;
+	font-size:13px;
+	background-color: #000;
+	color: #fff;
+	padding:10px;
+}
+#example_dashboard_widget .inside h1 {
+	font-size: 18px;
+}
+.choice_radio label {
+	vertical-align: inherit;
+}
+.wpbody-content-box {
+	overflow: visible !important;
+	padding-bottom: 25px;
+	padding-top: 15px;
+	width: 42%;
+	background-color:#FFFFFF;
+	margin-left: 0px;
+	box-shadow: 1px 1px 8px #ccc;
+}
+.whizz-h1 {
+	box-sizing:border-box;
+	background-color: #fff;
+	padding:15px 0 15px 15px;
+	width:42%;
+	margin-left: 15px;
+	box-shadow: 1px 1px 8px #ccc;
+}
+.whizz-left-align {
+	margin-left:15px;
+}
+.w-font {
+	font-size:16px;
+	color:black;
+}
+.reset-button {
+	cursor:pointer;
+	border: solid 1px;
+	margin-right:10px;
+	width:150px;
+	text-align:center;
+	float:left;
+	padding:10px;
+	font-size: 14px;
+	background-color: black;
+	color:white;
+}
+#example_dashboard_widget .hndle {
+	background-color: #f1c11f;
+	background-image: url("../img/colorize-logo.png");
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	border-bottom: 4px solid #f1ab1f;
+}
+body.rtl #example_dashboard_widget .hndle {
+	background-position:right center;
+}
+#example_dashboard_widget .hndle span {
+	color: #ffffff;
+	font-family:"Verdana";
+	font-size:18px;
+	font-weight: normal;
+	padding-left: 50px;
+}
+body.rtl #example_dashboard_widget .hndle span {
+	padding-left: 0px;
+	padding-right: 50px;
+}
+#example_dashboard_widget .hndle {
+	padding: 20px 0 20px 12px
+}
+#example_dashboard_widget .handlediv {
+	padding: 20px;
+}
+#example_dashboard_widget .handlediv {
+	color: #ffffff;
+	content: "";
+}
+.whizz_page_colorize_menus #wpcontent {
+	padding-right:20px;
+}
+.whizz-h1 {
+	background-color: #f1c11f;
+	background-image: url("../img/colorize-logo.png");
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	border-bottom: 4px solid #f1ab1f;
+	color: #ffffff;
+	margin-top: 35px;
+	padding: 26px 70px;
+	width: 100%;
+	margin-left:0px;
+}
+.whizz-left-align .w-font {
+	display: block;
+}
+.addnew-button-new {
+	margin-left: 15px;
+}
+#reset_to_default_order {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.js .meta-box-sortables .postbox.closed .handlediv::before, .js .widgets-holder-wrap.closed .sidebar-name-arrow::before {
+	background-repeat: no-repeat !important;
+	content: "" !important;
+	margin-right: -4px;
+	margin-top: 32px;
+	position: absolute;
+}
+.js .meta-box-sortables .postbox .handlediv::before, .js .sidebar-name .sidebar-name-arrow::before {
+	background-repeat: no-repeat !important;
+	content: "" !important;
+	margin-right: -4px;
+	margin-top: 32px;
+	position: absolute;
+}
+
+body.rtl #wpbody-content .whizz-h1 { background-position:right center; }
+body.rtl .wpbody-content-box { padding-right:70px; }
+body.rtl .wpbody-content-box.sep { padding-right:10px; }
+body.rtl #reset_all { float:right; }
+body.rtl #reset_menus_color { float:right; }
+
+ @media screen and ( max-width:700px) {
+
+#example_dashboard_widget #reset_menus_color {
+	padding: 10px;
+	width: auto !important;
+}
+#wpbody-content #example_dashboard_widget .choice_radio label {
+	width: auto !important;
+}
+#example_dashboard_widget #reset_all {
+	padding: 10px !important;
+	width: auto !important;
+}
+
+.inside #wpbody-content .choice_radio label {
+	width: 210px !important;
+}
+#example_dashboard_widget .hndle.ui-sortable-handle > span {
+	font: 17px/73px "Verdana" !important;
+}
+
+.whizz-h1 {
+	color: #ffffff;
+	margin-left: 0;
+	padding-left: 70px;
+	width: 98%;
+}
+.whizz-h1 {
+	background-color: #f1c11f;
+	background-image: url("../img/colorize-logo.png");
+	background-position: 11px center;
+	background-repeat: no-repeat;
+	background-size: 46px 46px;
+	border-bottom: 4px solid #f1ab1f;
+}
+.wpbody-content-box {
+	width: 98%;
+	margin-left: 0;
+}
+.reset-button {
+	font-size: 12px;
+	margin-right: 3px;
+	padding: 6px;
+	width: 117px;
+}
+body input[type="checkbox"], body input[type="radio"] {
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+#your-profile label + a, fieldset label, label {
+	padding-top: 5px;
+}
+#wpbody-content .choice_radio label {
+	display: inline-block;
+	width: 260px !important;
+}
+}
+ @media screen and (max-width:330px) {
+#wpbody-content .choice_radio label {
+	display: inline-block;
+	width: 230px !important;
+}
+}
+ @media screen and (min-width:740px) and (max-width:800px) {
+#wpbody-content .choice_radio label {
+	display: inline-block;
+	width: 230px !important;
+}
+}
+ @media screen and (min-width:460px) and (max-width:500px) {
+#wpbody-content .choice_radio label {
+	display: inline-block;
+	width: 370px !important;
+}
+}
+ @media screen and (min-width:620px) and (max-width:700px) {
+#wpbody-content .choice_radio label {
+	display: inline-block;
+	width: 90% !important;
+}
+}

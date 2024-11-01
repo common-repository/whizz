@@ -1,0 +1,4485 @@
+@media screen and (min-width: 700px) and (max-width: 1030px) {
+	.whizz_page_users-list .main_div_head_text {
+ 
+    font-size: 11px;
+}
+	.whizz_page_users-list .main_div_head_text li a {
+   
+    margin: 0 8px;
+  
+}
+	
+	
+	}
+
+
+.whizz_page_users-list .main_div_head_text {
+
+     width: 96.8%;
+}
+
+
+.wwhizz_page_users-list table {
+    width: 98%;
+}
+
+.whizz_page_users-list .whizz-plugin-search-container {
+    float: right;
+    margin-right: 2.8%;
+}
+
+
+.wwhizz_page_users-list #update-nag, .update-nag {
+
+ margin: 25px 20px 10px 9px;
+
+}
+
+
+.whizz_page_users-list h1.plugin-new-title {
+    float: left;
+    margin-left: 6px;
+}
+.wwhizz_page_users-list .bulk-action-container {
+    margin-left: 10px;
+}
+
+
+
+
+.whizz_page_users-list div.updated {
+    margin-left: 9px;
+    width: 94%;
+	padding-right: 10px;
+}
+
+
+
+
+#wp-admin-bar-standard_menu {
+    margin-left: 19px !important;
+}
+.close-popup-infor-bar
+{
+	cursor:pointer;
+}
+
+.close-popup-infor-bug
+{
+	cursor:pointer;
+}
+
+#wp-admin-bar-mega_menu img {
+    float: left;
+    margin: 4px 3px 7px 7px;
+}
+.inactive_redirect_url{
+  padding: 0 0 10px;
+  position: relative;
+  font-size: 13px;
+  top:15px;
+  background: #fff;
+  border-bottom: 1px solid #dfdfdf;
+  border-right: 1px solid #dfdfdf;
+  border-left: 1px solid #dfdfdf;
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.075);
+  box-shadow: 0 3px 6px rgba(0,0,0,.075);
+}
+.inactive_redirect_url h3 {
+	background-image:url(../images/tooltipicon.png);
+  position: relative;
+  margin: -1px -1px 5px;
+  background-repeat:no-repeat;
+  background-position:50px center;
+  background-size:32px auto;
+  padding: 15px 18px 14px 100px;
+  border-right: 1px solid #3592b6;
+  border-left: 1px solid #3592b6;
+  border-bottom: none;
+  line-height: 1.4em;
+  font-size: 14px;
+  color: #fff;
+  background-color: #2ea2cc;
+}
+.inactive_redirect_url p
+{
+	margin:1em 0;
+	padding:0 15px;
+}
+.inactive_redirect_url .wp-pointer-buttons {
+  margin: 0;
+  padding: 5px 15px;
+  overflow: auto;
+}
+.wp-pointer-buttons div {
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+}	
+.wp-core-ui .close-popup-infor-bar, .wp-core-ui .close-popup-infor-bug {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 26px;
+  height: 28px;
+  margin: 0;
+  padding: 0 10px 1px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  -webkit-appearance: none;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  white-space: nowrap;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wp-core-ui .close-popup-infor-bar {
+  background: #2ea2cc;
+  border-color: #0074a2;
+  -webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+  box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+  color: #fff;
+  text-decoration: none;
+}	
+.wp-core-ui .close-popup-infor-bug {
+  color: #555;
+  border-color: #ccc;
+  background: #f7f7f7;
+  -webkit-box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+  box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+  vertical-align: top;
+}
+.wp-pointer-arrow .wp-pointer-arrow-inner{
+  top: 1px;
+  margin-left: -13px;
+  margin-top: -13px;
+  border: 13px solid transparent;
+  border-bottom-color: #2ea2cc;
+  display: block;
+}
+.wp-pointer-arrow {
+  top: 0;
+  border-width: 0 13px 13px;
+  border-bottom-color: #3592b6;
+}
+.wp-pointer-arrow{
+  left: 50px;
+}
+.wp-pointer-arrow {
+  width: 0;
+  height: 0;
+  border: 0 solid transparent;
+}
+.wp-pointer-arrow, .wp-pointer-arrow-inner {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+.on_hover_new_menus li.wp-first-item {
+
+
+    background-color: #000;
+
+
+    display: inline-table;
+
+
+    flex-direction: initial;
+
+
+    
+
+
+    margin-right: 40px;
+
+
+    padding: 10px;
+
+
+}
+
+
+.on_hover_new_menus li.adminbarnew_sublevel:first-child a {
+
+
+    color: #fff !important;   text-decoration: none;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.on_hover_new_menus li.adminbarnew_sublevel a {
+
+
+    color: rgb(187, 187, 187) !important;   text-decoration: none;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.on_hover_new_menus li.adminbarnew_sublevel a:hover {
+
+
+    color: #0074a2;
+
+
+    text-decoration: none;
+
+
+}
+
+
+span.restore_this {
+
+
+  position: absolute;
+
+
+  top: -8px;
+
+
+  left: -8px;
+
+
+  display:none;
+
+
+}
+
+
+span.delete_this {
+
+
+  position: absolute;
+
+
+  top: -8px;
+
+
+  right: -8px;
+
+
+  display:none;
+
+
+}
+
+
+.on_hover_new_menus .adminbarnew_elements:hover span.restore_this, .on_hover_new_menus .adminbarnew_elements:hover span.delete_this
+
+
+{
+
+
+	display:block;
+
+
+}
+
+
+span.delete_this img, span.restore_this img {
+
+
+  width: 18px;
+
+
+}
+
+
+.on_hover_new_menus .adminbarnew_elements ul .adminbarnew_sublevel
+
+
+{
+
+
+	display:block;
+
+
+}
+
+
+.on_hover_new_menus .adminbarnew_elements {
+
+
+  position: relative;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#show_expand_arrow
+
+
+
+
+
+ {
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+    display: block;
+
+
+
+
+
+    position: relative;
+
+
+
+
+
+    text-align: center;
+
+
+
+
+
+    z-index: 9999999;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#show_expand_arrow img {
+
+
+
+
+
+    background-color: rgba(0, 0, 0, 0.6);
+
+
+
+
+
+    border: 4px solid #fff;
+
+
+
+
+
+    border-radius: 100%;
+
+
+
+
+
+    height: auto;
+
+
+
+
+
+    padding: 9px;
+
+
+
+
+
+    position: absolute;
+
+
+
+
+
+    top: -21px;
+
+
+
+
+
+    width: 15px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#show_collapse_arrow
+
+
+
+
+
+ {
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+    display: block;
+
+
+
+
+
+    position: relative;
+
+
+
+
+
+    text-align: center;
+
+
+
+
+
+    z-index: 9999999;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#show_collapse_arrow img {
+
+
+
+
+
+    background-color: rgba(0, 0, 0, 0.6);
+
+
+
+
+
+    border: 4px solid #fff;
+
+
+
+
+
+    border-radius: 100%;
+
+
+
+
+
+    height: auto;
+
+
+
+
+
+    padding: 9px;
+
+
+
+
+
+    position: absolute;
+
+
+
+
+
+    top: -21px;
+
+
+
+
+
+    width: 15px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew .update-count { background-color: rgb(213, 78, 33);
+
+
+
+
+
+    border-radius: 10px;
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    display: inline-block;
+
+
+
+
+
+    font-size: 9px;
+
+
+
+
+
+    font-weight: 600;
+
+
+
+
+
+    line-height: 17px;
+
+
+
+
+
+    margin: 1px 0 0 2px;
+
+
+
+
+
+    vertical-align: top;
+
+
+
+
+
+    z-index: 26;
+
+
+
+
+
+	padding:0 6px;
+
+
+
+
+
+	 position: relative;
+
+
+
+
+
+    top: 5px;}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew .pending-count { background-color: rgb(213, 78, 33);
+
+
+
+
+
+    border-radius: 10px;
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    display: inline-block;
+
+
+
+
+
+    font-size: 9px;
+
+
+
+
+
+    font-weight: 600;
+
+
+
+
+
+    line-height: 17px;
+
+
+
+
+
+    margin: 1px 0 0 2px;
+
+
+
+
+
+    vertical-align: top;
+
+
+
+
+
+    z-index: 26;
+
+
+
+
+
+	padding:0 6px;
+
+
+
+
+
+	 position: relative;
+
+
+
+
+
+    top: 5px;}
+
+
+
+
+
+	
+
+
+
+
+
+#adminbarnew .plugin-count 	{ background-color: rgb(213, 78, 33);
+
+
+
+
+
+    border-radius: 10px;
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    display: inline-block;
+
+
+
+
+
+    font-size: 9px;
+
+
+
+
+
+    font-weight: 600;
+
+
+
+
+
+    line-height: 17px;
+
+
+
+
+
+    margin: 1px 0 0 2px;
+
+
+
+
+
+    vertical-align: top;
+
+
+
+
+
+    z-index: 26;
+
+
+
+
+
+	padding:0 6px;
+
+
+
+
+
+	 position: relative;
+
+
+
+
+
+    top: 5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew input#save_menu_style {
+
+
+
+
+
+    background-color: rgb(255, 255, 255);
+
+
+
+
+
+    border: medium none;
+
+
+
+
+
+    box-shadow: 0 0 6px 2px rgba(0, 0, 0, 0.4);
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+    padding: 10px;
+
+
+
+
+
+	
+
+
+
+
+
+}
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-container-menus-new-plugins.dashboard_widget {
+
+
+
+
+
+    padding-left: 0px;
+
+
+
+
+
+}
+
+
+.main-container-menus-new-plugins.dashboard_widget .contaner-first-block-new {
+
+
+
+
+
+    width: 100%;
+
+
+
+
+
+}
+
+
+
+
+
+.main-container-menus-new-plugins.dashboard_widget .contaner-second-block-new {
+
+
+
+
+
+    width: 100%;
+
+
+
+
+
+}
+
+
+
+
+
+.main-container-menus-new-plugins {
+
+
+
+
+
+    padding-left: 15px;
+
+
+
+
+
+} 
+
+
+
+
+
+.main-plugin-title {
+
+
+
+
+
+    background-color: rgb(255, 255, 255);
+
+
+
+
+
+    padding: 15px 0 15px 15px;
+
+
+
+
+
+}
+
+
+
+
+
+.contaner-first-block-new {
+
+
+
+
+
+    background-color: rgb(255, 255, 255);
+
+
+
+
+
+    border-radius: 2px;
+
+
+
+
+
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.15);
+
+
+
+
+
+    float: left;
+
+
+
+
+
+    margin-right: 25px;
+
+
+
+
+
+    min-height: 180px;
+
+
+
+
+
+    text-align: center;
+
+
+
+
+
+    width: 500px;
+
+
+
+
+
+	margin-bottom:40px;
+
+
+
+
+
+}	
+
+
+
+
+
+.contaner-second-block-new {
+
+
+
+
+
+    background-color: rgb(255, 255, 255);
+
+
+
+
+
+    float: left;
+
+
+
+
+
+	   text-align: center;
+
+
+
+
+
+   width: 500px;
+
+
+
+
+
+	 min-height: 180px;
+
+
+
+
+
+	  border-radius: 2px;
+
+
+
+
+
+     box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.15);
+
+
+
+
+
+	 margin-bottom:40px;
+
+
+
+
+
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#resetwhizzlinks #resetlinks {
+
+
+
+
+
+    background-color: rgb(34, 34, 34);
+
+
+
+
+
+    border: 1px solid rgb(0, 0, 0);
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding: 10px 25px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#resetwhizzlinks #save_menu_style{
+
+
+
+
+
+    background-color: rgb(34, 34, 34);
+
+
+
+
+
+    border: 1px solid rgb(0, 0, 0);
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    cursor: pointer;
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding: 15px 30px;
+
+
+
+
+
+}
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+#adminbarnew {
+
+
+
+
+
+
+
+
+
+
+
+    background: none repeat scroll 0 0 rgb(34, 34, 34);
+
+
+
+
+
+
+
+
+
+
+
+    clear: both;
+
+
+
+
+
+
+
+
+
+
+
+    height: auto;
+
+
+
+
+
+
+
+
+
+
+
+    overflow: visible;
+
+
+
+
+
+
+
+
+
+
+
+    /*position: absolute;*/
+
+
+
+
+
+
+
+
+
+
+
+    width: 100%;
+
+
+
+
+
+	padding-bottom:10px;
+
+
+
+
+
+
+
+
+
+
+
+    /*z-index: 9999999;*/
+
+
+
+
+
+
+ z-index: 1;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.expand_collapse_button_show_hide {
+
+
+
+
+
+
+
+
+
+
+
+    font-size: 53px !important;
+
+
+
+
+
+
+
+
+
+
+
+    margin-right: 155px !important;
+
+
+
+
+
+
+
+
+
+
+
+    position: absolute !important;
+
+
+
+
+
+
+
+
+
+
+
+    right: 0;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew li:hover div.wp-menu-image::before {color: rgb(46, 162, 204);}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew li:hover span {
+
+
+
+
+
+
+
+
+
+
+
+    color: rgb(46, 162, 204);
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#undefined {
+
+
+
+
+
+
+
+
+
+
+
+    width: 0;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar #adminbarsearch::before, #wpadminbar .ab-icon::before, #wpadminbar .ab-item::before {
+
+
+
+
+
+
+
+
+
+
+
+    color: #999;
+
+
+
+
+
+
+
+
+
+
+
+    position: relative;
+
+
+
+
+
+
+
+
+
+
+
+    transition: all 0.1s ease-in-out 0s;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar .ab-icon, #wpadminbar .ab-item::before, #wpadminbar > #wp-toolbar > #wp-admin-bar-root-default .ab-icon {
+
+
+
+
+
+
+
+
+
+
+
+    background-image: none !important;
+
+
+
+
+
+
+
+
+
+
+
+    float: left;
+
+
+
+
+
+
+
+
+
+
+
+    font: 400 20px/1 dashicons;
+
+
+
+
+
+
+
+
+
+
+
+    margin-right: 6px;
+
+
+
+
+
+
+
+
+
+
+
+    padding: 4px 0;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+    position: relative;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar ul li:last-child, #wpadminbar ul li:last-child .ab-item {
+
+
+
+
+
+
+
+
+
+
+
+    box-shadow: none;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.full 
+
+
+
+
+
+{
+
+
+
+
+
+	display:none !important;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar .quicklinks > ul > li > a {
+
+
+
+
+
+
+
+
+
+
+
+    padding: 0 8px 0 7px;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar .quicklinks .ab-empty-item, #wpadminbar .quicklinks a, #wpadminbar .shortlink-input {
+
+
+
+
+
+
+
+
+
+
+
+    display: block;
+
+
+
+
+
+
+
+
+
+
+
+    height: 32px;
+
+
+
+
+
+
+
+
+
+
+
+    margin: 0;
+
+
+
+
+
+
+
+
+
+
+
+    padding: 0 10px;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wpadminbar a.ab-item, #wpadminbar > #wp-toolbar span.ab-label, #wpadminbar > #wp-toolbar span.noticon {
+
+
+
+
+
+
+
+
+
+
+
+    color: #eee;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#wp-admin-bar-expand_collapse_button .ab-item {
+    background-image: url("../images/plus_icon.png")!important;
+    background-position: 0 center!important;
+    background-repeat: no-repeat!important;
+    background-size: 13px auto!important;
+    font-size: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+#wp-admin-bar-expand_collapse_button .ab-item.ab-item-new {
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url("../images/plus_icon.png")!important;
+
+
+
+
+
+
+
+
+
+
+
+    background-position: 0 center!important;
+
+
+
+
+
+
+
+
+
+
+
+    background-repeat: no-repeat!important;
+
+
+
+
+
+
+
+
+
+
+
+    background-size: 13px auto!important;
+
+
+
+
+
+
+
+
+
+
+
+    font-size: 0;
+
+
+
+
+
+
+
+
+
+
+
+	transform: rotate(45deg);
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#wp-admin-bar-expand_collapse_button .ab-item.ab-item-new:focus {
+
+
+
+
+
+
+
+
+
+
+
+background-color:transparent !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#adminmenu li.menu-top
+
+
+
+
+
+
+
+
+
+
+
+{
+
+
+
+
+
+
+
+
+
+
+
+	z-index:9999 !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminmenu li.dragmenu-class.menu-top
+
+
+
+
+
+
+
+
+
+
+
+{
+
+
+
+
+
+
+
+
+
+
+
+	z-index:99999999 !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminmenu li.menu-top:hover
+
+
+
+
+
+
+
+
+
+
+
+{
+
+
+
+
+
+
+
+
+
+
+
+	z-index:999999 !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    font-size: 13px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    left: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    list-style: outside none none;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin: 0 0 1px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    padding-left: 8px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*    position: absolute;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    top: 32px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    width: 100%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    z-index: 1000;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	height:32px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew_bar li:hover {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-radius: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar a {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin-bottom: 2px; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew li ul {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*background: none repeat scroll 0 0 rgb(255, 255, 255);*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border: medium none;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-bottom-left-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-bottom-right-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    list-style: outside none auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    opacity: 0.95;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    padding: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*position: absolute;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    z-index: 9999;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*#adminbarnew li ul {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-bottom: 1px solid rgb(198, 217, 233);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-bottom-left-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-bottom-right-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-left: 1px solid rgb(204, 204, 204);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    border-right: 1px solid rgb(204, 204, 204);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    list-style: outside none auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    opacity: 0.95;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    padding: 0 0 0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    position: absolute;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    z-index: 9999;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_elements ul .adminbarnew_sublevel {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*display: none;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_elements:hover ul .adminbarnew_sublevel{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	display:block;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar a {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    color: rgb(187, 187, 187);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    display: block;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    line-height: 20px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    padding: 2px 10px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    text-decoration: none;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar li:hover {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*   background: linear-gradient(to bottom, rgb(84, 84, 85) 0%, rgb(67, 67, 68) 21%, rgb(27, 27, 28) 62%, rgb(11, 11, 11) 83%, rgb(2, 2, 2) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+
+
+
+
+
+
+
+
+
+
+
+ background: none repeat scroll 0 0 rgb(51, 51, 51);
+
+
+
+
+
+
+
+
+
+
+
+    color: rgb(255, 255, 238);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar li:hover a{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ color: rgb(187, 187, 187);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+	.adminbarnew_bar li ul li {
+
+
+
+
+
+		min-height:inherit;
+
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.adminbarnew_bar li {
+
+
+
+
+
+    display: inline;
+
+
+
+
+
+	/*min-height:455px;*/
+
+
+
+
+
+    float: left;
+
+
+
+
+
+    line-height: 20px !important;
+
+
+
+
+
+    list-style: outside none none;
+
+
+
+
+
+    margin: 0px;
+
+
+
+
+
+    padding: 0;
+
+
+
+
+
+    white-space: nowrap;
+
+
+
+
+
+	 position: relative;
+
+
+
+
+
+    z-index: 9999999;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar .adminbarnew_sublevel {
+
+
+
+
+
+    line-height: 100%;
+
+
+
+
+
+    margin: 0;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar li ul li {
+
+
+
+
+
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+
+
+
+
+
+    float: none;
+
+
+
+
+
+    overflow: hidden;
+
+
+
+
+
+    text-align: left;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar li:hover ul, .adminbarnew_bar li.ozhmenu_over ul {
+
+
+
+
+
+    left: auto;
+
+
+
+
+
+    z-index: 999999;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar li ul li {
+
+
+
+
+
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+
+
+
+
+
+    float: none;
+
+
+
+
+
+    overflow: hidden;
+
+
+
+
+
+    text-align: left;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar div.wp-menu-image:before {
+
+
+
+
+
+    color: rgb(153, 153, 153);
+
+
+
+
+
+    padding: 5px 2px 0 0;
+
+
+
+
+
+    transition: all 0.1s ease-in-out 0s;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew_bar .adminbarnew_sublevel:first-child a {
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding-left: 10px !important;
+
+
+
+
+
+}
+
+
+
+
+
+#adminbarnew_bar span.adminbarnew_sublevel a {
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding-left: 10px !important;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar .adminbarnew_sublevel a:hover, .adminbarnew_bar .adminbarnew_sublevel a.current, .adminbarnew_bar .adminbarnew_sublevel a.current:hover {
+
+
+
+
+
+  /*  background-color: rgb(228, 242, 253);*/
+
+
+
+
+
+    border-top-left-radius: 0;
+
+
+
+
+
+    border-top-right-radius: 0;
+
+
+
+
+
+/*    color: rgb(85, 85, 85);*/
+
+
+
+
+
+	color:rgb(46, 162, 204);
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew .adminbarnew_bar li ul li a{
+
+
+
+
+
+	/*color:#000;*/
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#adminbarnew a:focus {
+
+
+
+
+
+
+
+
+
+
+
+    box-shadow: 0 0 0 1px rgb(91, 157, 217), 0 0 2px 1px rgba(30, 140, 190, 0.8);
+
+
+
+
+
+    color: rgb(18, 73, 100);
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.c {
+
+
+
+
+
+	  padding: 0 20px 15px 10px;
+
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+.wp-first-item .adminbarnew_sublevel:first-child a {
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding-left: 9px;
+
+
+
+
+
+}
+
+
+
+
+
+.wp-first-item .adminbarnew_sublevel:first-child a:hover {
+
+
+
+
+
+    color: rgb(0, 0, 0);
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.wp-first-item span.adminbarnew_sublevel a{
+
+
+
+
+
+    color: rgb(255, 255, 255);
+
+
+
+
+
+    font-weight: bold;
+
+
+
+
+
+    padding-left: 9px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.adminbarnew_bar .adminbarnew_sublevel a {
+
+
+
+
+
+    background-position: 3px center;
+
+
+
+
+
+    background-repeat: no-repeat;
+
+
+
+
+
+  /*  padding-left: 22px;*/
+
+
+
+
+
+	padding-left: 20px;
+
+
+
+
+
+ 	padding-right: 15px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.highlight_dropbar {
+
+
+
+
+
+    border: 1px dashed;
+
+
+
+
+
+}
+
+
+
+
+
+.highlight_dropbar_ok {
+
+
+
+
+
+    border: 1px solid #ccc;
+
+
+
+
+
+}

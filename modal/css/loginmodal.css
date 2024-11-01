@@ -1,0 +1,466 @@
+/*.WhizzLogin-Modal-fields .button, input[type="button"], input[type="reset"], input[type="submit"] {
+    border-radius: 5px !important;
+    margin-left: 10px;
+    min-width: 168px;
+}*/
+
+
+body .user_login.input{
+	 color: #747474 !important;
+}
+#WhizzLogin-Modal-container-osx .button, #WhizzLogin-Modal-container-osx input[type="button"], #WhizzLogin-Modal-container-osx input[type="reset"], #WhizzLogin-Modal-container-osx input[type="submit"] {
+	background: none repeat scroll 0 0 rgba(142, 142, 142, 1) !important;
+	border: medium none;
+	box-shadow: none !important;
+	color: rgb(255, 255, 255) !important;
+	font-size: 0.875rem !important;
+	font-weight: 600 !important;
+	text-align: center;
+	text-shadow: none !important;
+	text-transform: uppercase;
+	transition: all 0.3s ease 0s;
+	width: auto;
+}
+#WhizzLogin-Modal-container-osx .user_pass, #WhizzLogin-Modal-container-osx .user_login, #WhizzLogin-Modal-container-osx .user_email {
+	margin-bottom: 0px !important;
+}
+.WhizzLogin-Modal-fields input[type="text"] {
+	margin-top: 8px !important;
+	height: 35px;
+	border:1px solid #e5e5e5;
+	width: 100%;
+	background: none repeat scroll 0 0 rgb(251, 251, 251);
+}
+.WhizzLogin-Modal-fields input[type="email"] {
+	margin-top: 8px !important;
+	height: 35px;
+	width: 100%;
+	background: none repeat scroll 0 0 rgb(251, 251, 251);
+}
+.WhizzLogin-Modal-fields input[type="password"] {
+	margin-top: 8px !important;
+	height: 35px;
+	width: 100%;
+	background: none repeat scroll 0 0 rgb(251, 251, 251);
+}
+.forgetmenot {
+	margin-bottom: 0 !important;
+}
+.forgetmenot label {
+	margin-bottom: 0 !important;
+}
+.WhizzLogin-Modal-fields .button, .WhizzLogin-Modal-fields input[type="button"], .WhizzLogin-Modal-fields input[type="reset"], .WhizzLogin-Modal-fields input[type="submit"] {
+	font-size: 12px;
+	padding: 6px !important;
+}
+.WhizzLogin-Modal-fields .button, .WhizzLogin-Modal-fields input[type="button"], .WhizzLogin-Modal-fields input[type="reset"], .WhizzLogin-Modal-fields input[type="submit"] {
+	border-radius: 5px !important;
+	margin-left: 10px;
+}
+.modal_title_login {
+	background-color: #656469;
+	background-image: url("../images/modalicon.fw_white.png");
+	border-bottom: 4px solid #515054;
+	color: #fff;
+	padding: 10px 0 10px 60px !important;
+}
+.modal_title_login {
+	background-image: url("../images/modalicon.fw_white.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 45px auto;
+	padding: 15px 0 15px 50px;
+	float: left;
+}
+#WhizzLogin-Modal-overlay-osx {
+	background-color:#000;
+}
+#WhizzLogin-Modal-container-osx {
+	background-color: #eeeeee;
+	border-radius:  6px;
+	color: #000000;
+	font-family: "Lucida Grande", Arial, sans-serif;
+	font-size: 12px;
+	left: 50% !important;
+	margin-left: -150px;
+	margin-top: -175px;
+	padding-bottom: 0px;
+	text-align: left;
+	top: 50% !important;
+	width: 300px;
+}
+body.rtl #WhizzLogin-Modal-container-osx {
+	text-align: right;
+}
+/*#WhizzLogin-Modal-container-osx {
+	background-color: #eeeeee;
+	border-radius: 0 0 6px 6px;
+	color: #000000;
+	font-family: "Lucida Grande", Arial, sans-serif;
+	font-size: 12px;
+	left: 50% !important;
+	margin-left: -175px;
+	margin-top: -200px;
+	padding-bottom: 4px;
+	text-align: left;
+	top: 50% !important;
+	width:420px;
+}*/
+#WhizzLogin-Modal-container-osx .message, #WhizzLogin-Modal-container-osx #login_error {
+	background-color: #ffebe8;
+	border:1px solid #c00;
+	margin-bottom:8px;
+	padding:6px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+#WhizzLogin-Modal-container-osx #reset_error {
+	background-color: #ffebe8;
+	border:1px solid #c00;
+	margin-bottom:8px;
+	padding:6px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+#WhizzLogin-Modal-container-osx #register_error {
+	background-color: #ffebe8;
+	border:1px solid #c00;
+	margin-bottom:8px;
+	padding:6px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+#WhizzLogin-Modal-container-osx #reset_confirm_error {
+	background-color: #ffebe8;
+	border:1px solid #c00;
+	margin-bottom:8px;
+	padding:6px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+#WhizzLogin-Modal-container-osx .message {
+	background-color:#ffffe0;
+	border-color:#e6db55;
+}
+/*#WhizzLogin-Modal-container-osx p {
+    margin: 15px 0;
+}
+*/
+#WhizzLogin-Modal-container-osx p {
+	margin: 15px 0;
+}
+#WhizzLogin-Modal-container-osx .WhizzLogin-title {
+	color:#000;
+	background-color:#ddd;
+	border-bottom:1px solid #ccc;
+	font-size:21px;
+	font-weight:bold;
+	margin-bottom:10px;
+	padding:12px 8px;
+	text-shadow:1px 1px 0 #f4f4f4;
+	border-radius:6px 6px 0 0;
+}
+#WhizzLogin-Modal-container-osx .close {
+	position:absolute;
+	right:0;
+	cursor: pointer;
+	color: rgb(119, 119, 119);
+	display: block;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 15px 0;
+	text-decoration: none;
+	text-shadow: 1px 1px 0 rgb(244, 244, 244);
+}
+.forgetmenot label {
+	margin-bottom: 5px;
+}
+#WhizzLogin-Modal-container-osx .close a {
+	display:block;
+	color:#777;
+	font-size:14px;
+	font-weight:bold;
+	padding:6px 12px 0;
+	text-decoration:none;
+	text-shadow:1px 1px 0 #f4f4f4;
+}
+#WhizzLogin-Modal-container-osx .close a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+.WhizzLogin-Modal-fields {
+	padding: 5px 25px 10px;
+}
+#WhizzLogin-Modal-container-osx form .submit {
+	float:right;
+}
+#WhizzLogin-Modal-container-osx form .submit input {
+	background-color:#ddd;
+	border:1px solid #6d6d6d;
+	margin-right:4px;
+	padding:2px 6px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+#WhizzLogin-Modal-container-osx form .submit input:hover {
+	background-color:#63adf6;
+}
+#WhizzLogin-Modal-container-osx form .forgetmenot {
+	color:#666;
+	float:left;
+	font-size:11px;
+	line-height:19px;
+}
+#WhizzLogin-Modal-container-osx .nav {
+	color:#666;
+	clear:both;
+	padding-top:16px;
+	text-align:center;
+}
+#WhizzLogin-Modal-container-osx .nav a {
+	color:#666;
+}
+#WhizzLogin-Modal-container-osx .reg_passmail {
+	clear: both;
+	color: #3a7ec2;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: center;
+}
+/*#WhizzLogin-Modal-container-osx .reg_passmail {
+	clear:both;
+	color:#3a7ec2;
+	font-weight:bold;
+	padding-bottom:16px;
+	text-align:center;
+}*/
+#WhizzLogin-Modal-container-osx .user_pass, #WhizzLogin-Modal-container-osx .user_login, #WhizzLogin-Modal-container-osx .user_email {
+	font-weight:normal;
+	font-size:17px;
+	width:100%;
+	padding:4px 3px 6px;
+	margin-top:2px;
+	margin-right:6px;
+	margin-bottom:12px;
+	border:1px solid #e5e5e5;
+	background:#fbfbfb;
+}
+#WhizzLogin-Modal-container-osx .rememberme {
+	vertical-align:middle;
+}
+.WhizzLogin-Modal-activity {
+	background:url(../img/osx/loading.gif) center no-repeat;
+	height:16px;
+	margin-top:12px;
+}
+#reset_form_main_div {
+	display:none;
+}
+#register_form_main_div {
+	display:none;
+}
+#reset_confirm_form_main_div {
+	display:none;
+}
+#WhizzLogin-Modal-container-osx label {
+	color: #000000;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: inherit;
+}
+body.rtl #WhizzLogin-Modal-container-osx label {
+	text-align:right;
+}
+#whizzlogin-modal-form .submit input {
+/*	background-color: #e6e6e6 !important;
+	background-image: -moz-linear-gradient(center top, #f4f4f4, #e6e6e6) !important;
+	background-repeat: repeat-x !important;
+	border: 1px solid #d2d2d2;
+	border-radius: 3px !important;
+	box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1);
+	color: #000000;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: unset;
+	min-width: 0;
+	padding: 0.428571rem 0.714286rem !important;
+	text-transform: none;*/
+}
+#whizzlogin-modal-form .submit input[type="button"]:hover {
+	color: #000000 !important;
+}
+#whizzlogin-Modal-form .nav a {
+	font-size: 13px;
+	text-decoration: underline;
+}
+#whizzlogin-Modal-form input[type="checkbox"] {
+	margin: 3px;
+}
+#whizzlogin-Modal-form .WhizzLogin-Modal-fields label {
+	margin: 0;
+}
+#whizzlogin-Modal-form .user_login.input {
+	margin: 0 0 5px;
+}
+#whizzlogin-Modal-form .whizzlogin-modal-fields .nav {
+	padding-top: 5px;
+}
+#whizzlogin-Modal-form .title {
+	margin-bottom: 5px;
+	padding: 10px 8px;
+	font-size: 20px;
+}
+#whizzlogin-Modal-form .user_login.input {
+	border-radius: 4px;
+	margin-bottom: 5px;
+	margin-top: 0;
+	width: 100%;
+}
+#whizzlogin-Modal-form .user_pass {
+	border-radius: 5px;
+	margin-bottom: 5px;
+	margin-top: 0;
+	width: 100%;
+}
+#whizzlogin-Modal-overlay-osx.simplemodal-overlay {
+	height: 100% !important;
+	width: 100% !important;
+}
+/*#WhizzLogin-Modal-form .title {
+  margin: 0;
+  padding: 10px 25px;
+  font-size: 36px;
+}*/
+#WhizzLogin-Modal-form .user_login.input {
+	margin: 0;
+}
+#WhizzLogin-Modal-form .rememberme {
+	margin:5px;
+}
+#WhizzLogin-Modal-form .nav {
+	font-size: 12px;
+	padding-top: 5px;
+	text-decoration: underline;
+}
+.page-id-713 #WhizzLogin-Modal-form .submit input {
+	/*background-attachment: scroll;
+    background-clip: border-box;
+    background-color: inherit !important;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border: 1px solid;
+    border-radius: 2px !important;
+    color: #000;
+    font-size: 12px;
+    font-weight: normal;
+    min-width: inherit;
+    padding: 3px !important;*/
+	
+	background-color: #e6e6e6 !important;
+	background-image: -moz-linear-gradient(center top, #f4f4f4, #e6e6e6) !important;
+	background-repeat: repeat-x !important;
+	border: 1px solid #d2d2d2 !important;
+	border-radius: 3px !important;
+	box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1) !important;
+	color: #7c7c7c !important;
+	font-family: arial;
+	min-width: inherit !important;
+	font-size: 11px !important;
+	font-weight: 100 !important;
+	line-height: 1.42857 !important;
+	padding: 0.428571rem 0.714286rem !important;
+	text-transform: capitalize;
+}
+.page-id-713 #WhizzLogin-Modal-form .submit input:hover {
+	color: #000 !important;
+}
+.simplemodal-overlay {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 10001;
+	opacity: 0.65;
+	height: 100%;
+	width: 100%;
+	display:none;
+}
+.simplemodal-container {
+	position: absolute;
+	z-index: 10002;
+	width: 350px;
+	left: 499.5px;
+	top: 0px;
+	height: auto;
+	display: none;
+}
+.simplemodal-wrap {
+	height: 100%;
+	outline: 0px none;
+	width: 100%;
+	overflow: visible;
+}
+ @media screen and (max-width : 400px) {
+.simplemodal-container {
+	margin-left: -148px !important;
+	width: auto !important;
+	z-index:9999999;
+}
+}
+ @media screen and (max-width : 700px) {
+.page-id-713 #WhizzLogin-Modal-form .submit input {
+	margin:5px 0 5px 5px;
+}
+.submit input {
+	margin-bottom: 5px;
+}
+#WhizzLogin-Modal-container-osx {
+	margin-left: -150px !important;
+}
+#WhizzLogin-Modal-container-osx {
+	width: 300px !important;
+}
+#WhizzLogin-Modal-form .button, #WhizzLogin-Modal-form input[type="button"], #WhizzLogin-Modal-form input[type="reset"], #WhizzLogin-Modal-form input[type="submit"] {
+	width: 48% !important;
+	min-width:inherit !important;
+	margin-left:0px;
+}
+#WhizzLogin-Modal-form .title {
+	font-size: 18px;
+}
+}
+ @media screen and (max-width: 350px) {
+.simplemodal-wrap #WhizzLogin-Modal-form .button, .simplemodal-wrap #WhizzLogin-Modal-form input[type="button"], .simplemodal-wrap #WhizzLogin-Modal-form input[type="reset"], .simplemodal-wrap #WhizzLogin-Modal-form input[type="submit"] {
+	/* width: 100% !important;*/
+	min-width:inherit !important;
+}
+}
+ @media screen and (min-width: 900px) and (max-width: 1400px){
+ #register_form_main_div {
+  margin-top: -36% !important;
+  background: #eee none repeat scroll 0 0;
+   position: absolute;
+    border-radius: 5px;
+}
+ }
+.WhizzLogin-title {
+	text-align: center;
+}
+.user_first_name.input, .user_last_name.input {
+    font-weight: normal;
+   padding: 4px 3px 6px;
+}	
+#register_project_owner input#project_owner_user_register {
+    margin-right: 5px;
+}	
+

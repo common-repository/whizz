@@ -1,0 +1,26 @@
+#adminbarnew .mCSB_scrollTools {
+    width: 16px !important;
+}
+
+#adminbarnew .mCSB_outside + .mCS-minimal.mCSB_scrollTools_vertical, #adminbarnew .mCSB_outside + .mCS-minimal-dark.mCSB_scrollTools_vertical {
+    background-color: transparent !important;
+    margin: 12px 0 !important;
+}
+#adminbarnew #mCSB_1_dragger_vertical {
+    height: 80px !important;
+    left: inherit;
+    width: 100% !important;
+}
+#adminbarnew .mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+#adminbarnew #mCSB_1_dragger_vertical .mCSB_dragger_bar {
+    background-color: rgba(255, 255, 255, 0.75) !important;
+}
+#adminbarnew .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    height: 100% !important;
+}
+
+#adminbarnew .mCSB_scrollTools .mCSB_dragger {
+    z-index: 9999999;
+}

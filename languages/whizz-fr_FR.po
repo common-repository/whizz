@@ -1,0 +1,512 @@
+# Copyright (C) 2018 WHIZZ
+# This file is distributed under the same license as the WHIZZ package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WHIZZ 1.1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/whizz\n"
+"POT-Creation-Date: 2018-04-08 12:05:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "WHIZZ Features"
+msgstr "WHIZZ Caractéristiques"
+
+msgid "Colorize"
+msgstr "Coloriser"
+
+msgid "Colorful color-coded Native Wordpress Menus and Dividers for WordPress Admin.  Why be bland?"
+msgstr "Menus et séparateurs de Wordpress indigènes colorés par couleur pour l'admin de WordPress. Pourquoi être fade?"
+
+msgid "Menus"
+msgstr "Menus"
+
+msgid "Native Wordpress left-sided Menu with drag n' drop functionality to organize your menu items just how you like them - in a snap."
+msgstr "Menu gauche natif de Wordpress Menu avec fonction glisser-déposer pour organiser vos menus à votre guise - en un clin d'œil"
+
+msgid "Modal"
+msgstr "Modal"
+
+msgid "Easily setup custom login pages for your WordPress website."
+msgstr "Facilement installer des pages de connexion personnalisées pour votre site WordPress."
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Organize your plugins with drag n' drop functionality so the ones you use are easily accessed."
+msgstr "Organisez vos plugins avec la fonction glisser-déposer afin que ceux que vous utilisez soient facilement accessibles."
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Organize your users, or as we like to call them, members and most likely staff or clients so they mean more than a name an email and an avatar!  With drag n' drop functionality, you can create meaningful lists and more.  Get more organized and connected with your wordpress members."
+msgstr "Organisez vos utilisateurs, ou comme nous aimons les appeler, les membres et le plus probable du personnel ou des clients afin qu'ils signifient plus qu'un nom un e-mail et un avatar! Avec la fonctionnalité glisser-déposer, vous pouvez créer des listes significatives et plus encore. Soyez plus organisé et connecté avec vos membres wordpress."
+
+msgid "WHIZZ Support"
+msgstr "Soutien WHIZZ"
+
+msgid "Latest Update"
+msgstr "Dernière mise à jour"
+
+msgid "Update History"
+msgstr "Mise à jour historique"
+
+msgid "Fixed:"
+msgstr "Fixé:"
+
+msgid "JQuery bug fixed."
+msgstr "Bug JQuery corrigé."
+
+msgid "Updated email templates."
+msgstr "Modèles d'e-mail mis à jour"
+
+msgid "Registration on mobile,GREEN for success messages and update reset password bug fixed."
+msgstr "Inscription sur mobile, VERT pour les messages de réussite et mise à jour corrigé le bug du mot de passe corrigé."
+
+msgid "Bridge theme and the wp-amp plugin bug fixed."
+msgstr "Le thème Bridge et le bug du plugin wp-amp ont été corrigés."
+
+msgid "Added:"
+msgstr "Ajoutée:"
+
+msgid "WHIZZ Modal is now included in the free version of WHIZZ."
+msgstr "WHIZZ Modal est maintenant inclus dans la version gratuite de WHIZZ."
+
+msgid "Separator saving issue fixed."
+msgstr "Problème d'économie de séparateur résolu."
+
+msgid "This is a major security update / patch for WHIZZ plugin.<br /><br />It is highly recommended that you update the WHIZZ plugin as soon as possible.  We have fixed compatibility with WordPress and updated the plugin as per WordPress guidelines.<br /><br />Specifically;<br />- WHIZZ Plugin now verifies nonce on user delete, Plugin delete and for form submissions.<br />- Plugin also validates content type before sending to database or before processing (e.g. validating integer data with intval())."
+msgstr "Ceci est une mise à jour de sécurité majeure / correctif pour le plugin WHIZZ. <br /> <br /> Il est fortement recommandé de mettre à jour le plugin WHIZZ dès que possible. Nous avons corrigé la compatibilité avec WordPress et mis à jour le plugin selon les directives de WordPress. <br /> <br /> Plus précisément: <br /> - WHIZZ Plugin vérifie maintenant le nonce sur la suppression de l'utilisateur, la suppression du plugin et pour les soumissions de formulaires. <br /> - Le plugin valide également le type de contenu avant l'envoi à la base de données ou avant le traitement (par exemple, la validation des données entières avec intval ())."
+
+msgid "Fixed compatibility issue with Wordpress."
+msgstr "Correction d'un problème de compatibilité avec Wordpress."
+
+msgid "Updated Compatibility with Wordpress."
+msgstr "Compatibilité mise à jour avec Wordpress."
+
+msgid "Resolved Compatibility issue with Wordpress."
+msgstr "Problème de compatibilité résolu avec Wordpress."
+
+msgid "XSS vulnerability issue fixed."
+msgstr "Problème de vulnérabilité XSS résolu."
+
+msgid "Clean:"
+msgstr "Nettoyer:"
+
+msgid "CSS conflict with visual composer fixed."
+msgstr "Conflit CSS avec le compositeur visuel fixe."
+
+msgid "css issue resolved."
+msgstr "Problème css résolu."
+
+msgid "Updated code for menu reorder."
+msgstr "Code mis à jour pour la réorganisation du menu."
+
+msgid "Menu reorder bug fixes."
+msgstr "Menu réorganiser les corrections de bugs."
+
+msgid "Jquery bug fixes."
+msgstr "Corrections de bogues Jquery."
+
+msgid "Menu Separator saved data is removed on plugin uninstall."
+msgstr "Les données enregistrées du séparateur de menu sont supprimées lors de la désinstallation du plugin."
+
+msgid "Menu Separator, it allows user to Select &amp; Drag Separator for WordPress menus."
+msgstr "Séparateur de menu, il permet à l'utilisateur de sélectionner & amp; Faites glisser Separator pour les menus WordPress."
+
+msgid "Wordpress Menus can be rearranged."
+msgstr "Les menus Wordpress peuvent être réarrangés."
+
+msgid "Support"
+msgstr "Soutien"
+
+msgid "For support, please go to <a href="https://wordpress.org/plugins/whizz/" target="_blank">Wordpress</a> and submit a <a href="https://wordpress.org/support/plugin/whizz" target="_blank">support request</a>. If you are a subscriber to WHIZZ Ultimate, please <a href="https://browserweb.org/account/submitticket.php?step=2&deptid=6" target="_blank">submit a ticket</a> and/or login to <a href="https://browserweb.org/account/" target="_blank">your account</a> at Browserweb.org.<br/><br/><strong>If you wish to upgrade or Purchase our Premium Plugin versions, visit <a href="https://whizz.us.com/" target="_blank">https://whizz.us.com/</a> to learn more.</strong>"
+msgstr "Pour obtenir de l'aide, accédez à <a href="https://wordpress.org/plugins/whizz/" target="_blank">Wordpress</a> et envoyez <a href="https://wordpress.org/support/plugin/whizz" target ="_blank"> demande de support </a>. Si vous êtes abonné à WHIZZ Ultimate, <a href="https://browserweb.org/account/submitticket.php?step=2&deptid=6" target="_blank"> envoyez un ticket </a> et/ou connectez-vous à <a href="https://browserweb.org/account/" target="_blank"> votre compte </a> sur Browserweb.org. <br/> <br/> <strong> Si vous le souhaitez Pour mettre à niveau ou acheter nos versions Premium Plugin, visitez <a href="https://whizz.us.com/" target="_blank"> https://whizz.us.com/ </a> pour en savoir plus. </strong>"
+
+msgid "WHIZZ"
+msgstr "WHIZZ"
+
+msgid "WHIZZ Features"
+msgstr "WHIZZ Caractéristiques"
+
+msgid "Colorize"
+msgstr "Coloriser"
+
+msgid "Menus"
+msgstr "Menus"
+
+msgid "Modal"
+msgstr "Modal"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "WHIZZ Support"
+msgstr "Soutien WHIZZ"
+
+msgid "WHIZZ Menus"
+msgstr "WHIZZ Menus"
+
+msgid "Select & Drag Separator"
+msgstr "Sélectionnez et faites glisser le séparateur"
+
+msgid "Reset Separators"
+msgstr "Réinitialiser les séparateurs"
+
+msgid "WHIZZ Colorize"
+msgstr "WHIZZ Coloriser"
+
+msgid "Color Palette to change menus color"
+msgstr "Palette de couleurs pour changer la couleur des menus"
+
+msgid "Background color for menus"
+msgstr "Couleur d'arrière-plan pour les menus"
+
+msgid "Hover color for menus"
+msgstr "Couleur de survol pour les menus"
+
+msgid "Reset Bucket"
+msgstr "Réinitialiser le seau"
+
+msgid "Reset Menus Color"
+msgstr "Réinitialiser les menus Couleur"
+
+msgid "WHIZZ Modal Login"
+msgstr "Connexion modale WHIZZ"
+
+msgid "User Registration"
+msgstr "Enregistrement de l'utilisateur"
+
+msgid "Enable"
+msgstr "Activer"
+
+msgid "Password Reset"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Select Custom Login Page"
+msgstr "Sélectionnez la page de connexion personnalisée"
+
+msgid "Select Page"
+msgstr "Sélectionner une page"
+
+msgid "Select Login Page"
+msgstr "Sélectionnez la page de connexion"
+
+msgid "Pages Not Found"
+msgstr "Pages introuvables"
+
+msgid "User Redirect to Custom Page After Login"
+msgstr "Redirection de l'utilisateur vers une page personnalisée après la connexion"
+
+msgid "Select Redirect page"
+msgstr "Sélectionner la page de redirection"
+
+msgid "Shortcode for Show Whizz Login Modal Popup"
+msgstr "Code court pour afficher Whizz Login Modal Popup"
+
+msgid "Shortcode for Whizz Login Modal Login Link"
+msgstr "Code court pour Whizz Login Modal Login Link"
+
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Login"
+msgstr "S'identifier"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Remember Me"
+msgstr "Souviens-toi de moi"
+
+msgid "Log In"
+msgstr "s'identifier"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Register"
+msgstr "registre"
+
+msgid "Password Lost and Found"
+msgstr "Mot de passe Perdu et Trouvé"
+
+msgid "Lost your password?"
+msgstr "Mot de passe perdu?"
+
+msgid "Reset Password"
+msgstr "réinitialiser le mot de passe"
+
+msgid "Username or E-mail:"
+msgstr "Nom d'utilisateur ou email:"
+
+msgid "Delete Plugin"
+msgstr "Supprimer le plugin"
+
+msgid "Are you sure you want to delete this plugin"
+msgstr "Êtes-vous sûr de vouloir supprimer ce plugin"
+
+msgid "Yes Delete the plugin"
+msgstr "Oui Supprimer le plugin"
+
+msgid "No Return me to the plugin list"
+msgstr "Non Retourne-moi à la liste des plugins"
+
+msgid "Deactivate"
+msgstr "Désactiver"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Edit"
+msgstr "modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "More Details"
+msgstr "Plus de détails"
+
+msgid "Plugin details here"
+msgstr "Détails du plugin ici"
+
+msgid "Delete Plugins"
+msgstr "Supprimer les plugins"
+
+msgid "You are about to remove the following plugin"
+msgstr "Vous êtes sur le point de supprimer le plug-in suivant"
+
+msgid "Are you sure you want to delete these/this Plugin/s?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces/ce plugin/s?"
+
+msgid "Yes Delete Plugin/s"
+msgstr "Oui Supprimer le plugin/s"
+
+msgid "No Return me to the plugins list"
+msgstr "Non Retourne-moi à la liste des plugins"
+
+msgid "No any plugin selected."
+msgstr "Aucun plugin sélectionné."
+
+msgid "Back"
+msgstr "Arrière"
+
+msgid "Activation Failed."
+msgstr "Activation echouée."
+
+msgid "Deactivation Failed."
+msgstr "La désactivation a échoué."
+
+msgid "Activated Successfully."
+msgstr "Activé avec succès."
+
+msgid "Deactivated Successfully."
+msgstr "Désactivé avec succès."
+
+msgid "Please select minimum 1 plugin to proceed."
+msgstr "Veuillez sélectionner au minimum 1 plugin pour continuer."
+
+msgid "Plugin/s deletion error! Please try again."
+msgstr "Erreur de suppression du plugin/s! Veuillez réessayer."
+
+msgid "Plugin/s deleted successfully."
+msgstr "Plugin/s supprimé avec succès."
+
+msgid "WHIZZ Plugins"
+msgstr "WHIZZ Plugins"
+
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+msgid "Deleted Successfully."
+msgstr "Supprimé avec succès."
+
+msgid "Deletion Error."
+msgstr "Erreur de suppression."
+
+msgid "Bulk Actions"
+msgstr "Actions en vrac"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Reset Order (Current)"
+msgstr "Réinitialiser la commande (actuel)"
+
+msgid "Reset Order (All)"
+msgstr "Réinitialiser la commande (tous)"
+
+msgid "Search Plugin"
+msgstr "Plugin de recherche"
+
+msgid "All Plugins"
+msgstr "Tous les plugins"
+
+msgid "Active Plugins"
+msgstr "Plugins actifs"
+
+msgid "Inactive Plugins"
+msgstr "Plugins inactifs"
+
+msgid "Active & Updates Available"
+msgstr "Actif et mises à jour disponibles"
+
+msgid "Inactive & Require Update"
+msgstr "Inactif et nécessite une mise à jour"
+
+msgid "List View"
+msgstr "Vue de liste"
+
+msgid "<strong>ERROR</strong>: User deactivated."
+msgstr "<strong>ERREUR</strong>: utilisateur désactivé."
+
+msgid "Search Users"
+msgstr "Rechercher des utilisateurs"
+
+msgid "Reset to default order"
+msgstr "Réinitialiser l'ordre par défaut"
+
+msgid "Item per page"
+msgstr "Article par page"
+
+msgid "Previous"
+msgstr "précédent"
+
+msgid "Next"
+msgstr "Prochain"
+
+msgid "WHIZZ Users"
+msgstr "Utilisateurs WHIZZ"
+
+msgid "All Users"
+msgstr "Tous les utilisateurs"
+
+msgid "No any user selected."
+msgstr "Aucun utilisateur sélectionné."
+
+msgid "Delete User"
+msgstr "Supprimer l'utilisateur"
+
+msgid "Delete Users"
+msgstr "Supprimer les utilisateurs"
+
+msgid "Are you sure you want to delete these/this user?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces/cet utilisateur?"
+
+msgid "Yes Delete User/s"
+msgstr "Oui Supprimer l'utilisateur/s"
+
+msgid "No Return me to the users list"
+msgstr "Non Retournez-moi à la liste des utilisateurs"
+
+msgid "Settings saved successfully."
+msgstr "Les paramètres ont bien été enregistrés."
+
+msgid "WHIZZ Separator"
+msgstr "WHIZZ Séparateur"
+
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong>ERREUR</strong>: le champ du nom d'utilisateur est vide."
+
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>ERREUR</strong>: le champ du mot de passe est vide."
+
+msgid "<strong>ERROR</strong>: The email doesn't seem to be a valid email. Please enter a valid registered email."
+msgstr "<strong>ERREUR</strong>: l'e-mail ne semble pas être un e-mail valide. S'il vous plaît entrer un email enregistré valide."
+
+msgid "<strong>ERROR</strong>: The email is not registered."
+msgstr "<strong>ERREUR</strong>: l'e-mail n'est pas enregistré."
+
+msgid "<strong>ERROR</strong>: The email and password doesn't match. Please try again."
+msgstr "<strong>ERREUR</strong>: l'e-mail et le mot de passe ne correspondent pas. Veuillez réessayer."
+
+msgid "<strong>ERROR</strong>: User not found. Please Register yourself first."
+msgstr "<strong>ERREUR</strong>: utilisateur non trouvé. Veuillez vous enregistrer d'abord."
+
+msgid "<strong>ERROR</strong>: Something went wrong. Please try again."
+msgstr "<strong>ERREUR</strong>: une erreur s'est produite. Veuillez réessayer."
+
+msgid "<strong>ERROR</strong>: The First Name field is empty."
+msgstr "<strong>ERREUR</strong>: le champ Prénom est vide."
+
+msgid "<strong>ERROR</strong>: The Last Name field is empty."
+msgstr "<strong>ERREUR</strong>: le champ Nom de famille est vide."
+
+msgid "<strong>ERROR</strong>: The email field is empty."
+msgstr "<strong>ERREUR</strong>: le champ de courrier électronique est vide."
+
+msgid "<strong>ERROR</strong>: The username is already registered."
+msgstr "<strong>ERREUR</strong>: le nom d'utilisateur est déjà enregistré."
+
+msgid "<strong>ERROR</strong>: The email is already registered."
+msgstr "<strong>ERREUR</strong>: l'e-mail est déjà enregistré."
+
+msgid "<strong>ERROR</strong>: Errors in inserting please try again!"
+msgstr "<strong>ERREUR</strong>: erreurs lors de l'insertion, veuillez réessayer!"
+
+msgid "<strong>ERROR</strong>: The new password field is empty."
+msgstr "<strong>ERREUR</strong>: le champ Nouveau mot de passe est vide."
+
+msgid "<strong>ERROR</strong>: The confirm password field is empty."
+msgstr "<strong>ERREUR</strong>: le champ de confirmation du mot de passe est vide."
+
+msgid "<strong>ERROR</strong>: The confirm password doesn't match."
+msgstr "<strong>ERREUR</strong>: le mot de passe de confirmation ne correspond pas."
+
+msgid "<strong>ERROR</strong>: Error in updating Please try again!"
+msgstr "<strong>ERREUR</strong>: Erreur lors de la mise à jour Veuillez réessayer!"
+
+msgid "<strong>ERROR</strong>: User is not selected."
+msgstr "<strong>ERREUR</strong>: l'utilisateur n'est pas sélectionné."
+
+msgid "New Password"
+msgstr "nouveau mot de passe"
+
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Get Password"
+msgstr "Obtenir le mot de passe"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "A password will be e-mailed to you."
+msgstr "Un mot de passe vous sera envoyé par courriel."
+
+msgid "Error Occurred"
+msgstr "Erreur est survenue"
+
+msgid "Log Out"
+msgstr "Connectez - Out"
+
+msgid "If you want <b>WP-Login redirect</b> to custom page, Then please select redirect to custom page"
+msgstr "Si vous voulez <b>WP-Login redirection</b> vers la page personnalisée, alors s'il vous plaît sélectionnez rediriger vers la page personnalisée"
+
+msgid "If you want <b>User Redirect</b> to custom page after login, Then please select redirect to custom page"
+msgstr "Si vous souhaitez <b>Redirection utilisateur</b> vers la page personnalisée après la connexion, sélectionnez rediriger vers la page personnalisée"
+
+msgid "WHIZZ is now translation ready for the following 5 languages; Arabic, French, Hindi, Spanish, and Russian. Go to Settings/General and choose from the dropdown under "Site Language" to switch language."
+msgstr "WHIZZ est maintenant prêt pour la traduction dans les 5 langues suivantes; Arabe, français, hindi, espagnol et russe. Allez dans Paramètres / Général et choisissez dans la liste déroulante sous "Langue du site" pour changer de langue."
